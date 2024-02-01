@@ -8,7 +8,6 @@ body {
 }
 
 
-
 * {box-sizing: border-box;}	
 	
 
@@ -38,7 +37,6 @@ a {text-decoration: none;}
 	color: white;
 	overflow: hidden;
 	
-	
 }
 
 .logo img {
@@ -60,7 +58,9 @@ a {text-decoration: none;}
 	margin-left: 4%; 
 	margin-top: 5%; 
 	color: grey;
-	transition: filter 0.5s ease, color 0.5s ease;}
+	transition: filter 0.5s ease, color 0.5s ease;
+
+}
 
 .inicio .texto {margin-top: 3%; margin-left: 3%;}
 
